@@ -1,0 +1,2 @@
+# sigmacoin
+Sigma Coin Contract
